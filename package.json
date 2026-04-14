@@ -4,7 +4,7 @@
   "description": "Finds duplicate URLs in Obsidian",
   "main": "main.js",
   "scripts": {
-    "build": "esbuild main.js --bundle --outfile=main.js --platform=node --target=node16 --external:obsidian",
+    "build": "esbuild main.js --bundle --outfile=main.js --platform=node --target=node16 --external:obsidian --allow-overwrite",
     "dev": "esbuild main.js --bundle --outfile=main.js --platform=node --target=node16 --external:obsidian --watch"
   },
   "devDependencies": {
