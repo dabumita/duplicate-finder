@@ -1,0 +1,7 @@
+/* styles.css */
+.duplicate-link-highlight {
+  background-color: #ffeb3b; /* Жёлтая подсветка для дубликатов */
+}
+.theme-dark .duplicate-link-highlight {
+  background-color: #7d5e00; /* Тёмный оттенок для тёмной темы */
+}

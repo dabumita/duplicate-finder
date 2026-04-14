@@ -1,0 +1,9 @@
+{
+	"id": "duplicate-finder",
+	"name": "Duplicate Finder",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Подсвечивает строки с дублирующимися интернет-ссылками",
+	"author": "dabumita",
+	"isDesktopOnly": false
+}
